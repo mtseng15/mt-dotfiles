@@ -1,0 +1,16 @@
+import = [
+    "~/.config/alacritty/alacritty-theme/themes/everforest_light.toml"
+]
+
+live_config_reload = true
+
+[env]
+TERM = 'xterm-256color'
+
+[font]
+normal = { family = "JetBrains Mono", style = "Light"}
+size = 15
+
+[window]
+decorations = "Buttonless"
+

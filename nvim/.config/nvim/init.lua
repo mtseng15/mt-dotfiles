@@ -1,0 +1,2 @@
+require("mt-config")
+

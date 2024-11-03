@@ -14,6 +14,10 @@ return {
     },
 
     config = function()
+        -- Reserve a space in the gutter
+        -- This will avoid an annoying layout shift in the screen
+        vim.opt.signcolumn = 'yes'
+
         local cmp = require('cmp')
         local cmp_lsp = require("cmp_nvim_lsp")
         local capabilities = vim.tbl_deep_extend(

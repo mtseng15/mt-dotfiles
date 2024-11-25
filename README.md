@@ -4,6 +4,7 @@
 
 - [Alacritty](https://github.com/alacritty/alacritty) - Version +13
 - [Neovim](https://github.com/neovim/neovim) - Version +9, but +10 is better
+- [Jetbrains Mono Font](https://www.jetbrains.com/lp/mono/)
 - [Tmux](https://github.com/tmux/tmux) - Version +3.4
 - [Stow](https://www.gnu.org/software/stow/) - Version +2.4.1
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - Version +14

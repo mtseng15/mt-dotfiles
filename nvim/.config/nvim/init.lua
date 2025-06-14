@@ -6,4 +6,4 @@ require("mt-config")
 -- set the color scheme
 vim.cmd([[colorscheme everforest]])
 
-vim.o.background = "light"
+vim.o.background = "dark"

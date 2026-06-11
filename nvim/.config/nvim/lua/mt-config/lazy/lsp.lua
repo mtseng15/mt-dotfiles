@@ -18,6 +18,9 @@ return {
         -- This will avoid an annoying layout shift in the screen
         vim.opt.signcolumn = 'yes'
 
+        -- Limit the number of list suggestions
+        vim.opt.pumheight = 5
+
         local cmp = require('cmp')
         local cmp_lsp = require("cmp_nvim_lsp")
         local capabilities = vim.tbl_deep_extend(

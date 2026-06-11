@@ -60,5 +60,7 @@ Nagivation is driven by
 - <C-k> - View Harpoon file 3
 - <C-l> - View Harpoon file 4
 - <C-;> - View Harpoon file 5
+- <Space-n> - Goto next LSP error/warning
+- <Space-b> - Goto prev LSP error/warning
 
 

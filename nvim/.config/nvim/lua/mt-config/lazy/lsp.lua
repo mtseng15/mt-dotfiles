@@ -32,10 +32,12 @@ return {
             ensure_installed = {
                 "lua_ls",
                 "rust_analyzer",
-		"matlab_ls",
-		"denols",
-		"bashls",
-		"ruff",
+                "matlab_ls",
+                "denols",
+                "bashls",
+                "ruff",
+                "sqruff",
+                "verible"
             },
             handlers = {
                 function(server_name) -- default handler (optional)

@@ -39,8 +39,8 @@ return {
                 "denols",
                 "bashls",
                 "ruff",
-                "verible",
-                "harper_ls",
+                "sqruff",
+                "verible"
             },
             handlers = {
                 function(server_name) -- default handler (optional)
